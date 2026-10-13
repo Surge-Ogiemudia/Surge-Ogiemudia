@@ -22,7 +22,6 @@ I build software for healthcare businesses: point of sale, patient records, and 
 
 - **[PharmaStackX Nexus](https://github.com/Surge-Ogiemudia/pharmastackx-nexus)**: medicine discovery with prescription scanning, multilingual pharmacist Q&A, and an offline mode. Built for the Gemma 4 Good Hackathon. [Live demo](https://nexus.psx.ng)
 - **[CS50P Logic Tutor](https://github.com/Surge-Ogiemudia/pythonpractice)**: a study tool that walks you through a Python problem set in plain English, then step by step, with an in-browser Python runner.
-- **[CCNA Prep](https://github.com/Surge-Ogiemudia/CCNA-prep)**: a CCNA study app with lessons, a progress map, and drills.
 
 ### Contact
 
