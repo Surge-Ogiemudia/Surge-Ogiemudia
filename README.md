@@ -3,7 +3,7 @@
 I build software for healthcare businesses: point of sale, patient records, and real-time sync across independently owned locations. Most of my work runs in production for pharmacies, so the code is private. What I build, and how, is below.
 
 **Stack:** Next.js · TypeScript · React · MongoDB · Prisma · Electron · Vercel
-**Background:** BSc Computer Science · MSc Cybersecurity
+
 
 ### What I've built
 
